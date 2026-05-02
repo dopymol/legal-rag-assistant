@@ -27,3 +27,7 @@ An AI-powered legal assistant that analyzes contract documents using Retrieval-A
 ```bash```
 pip install -r requirements.txt
 streamlit run app.py
+
+```markdown```
+## 📸 Demo 
+![App Screenshot](demo.png)
