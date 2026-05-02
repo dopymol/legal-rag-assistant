@@ -1,0 +1,7 @@
+streamlit
+langchain
+openai
+faiss-cpu
+pdfplumber
+tiktoken
+greenlet==3.0.3
